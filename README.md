@@ -56,3 +56,6 @@ Click Select APIs and select Maps SDK for Android.
 (If the Maps SDK for Android is not listed, you need to enable it.)
 
 Click SAVE.
+
+
+https://github.com/android/location-samples
